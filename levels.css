@@ -8,6 +8,10 @@ body {
     align-items: center;
     min-height: 100vh;
     overflow-y: auto;
+    background-image: url('paper.jpg'); /* Apply the paper.jpg background */
+    background-size: cover;             /* Ensure the image covers the entire background */
+    background-position: center center; /* Center the image */
+    background-repeat: no-repeat;       /* Prevent the image from repeating */
 }
 
 .logo-container {
@@ -19,7 +23,7 @@ body {
     margin: 0 auto;
 }
 
-.levelselect{
+.levelselect {
     margin-top: 40px;
 }
 

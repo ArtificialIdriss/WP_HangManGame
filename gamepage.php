@@ -157,7 +157,7 @@ if ($gameOver || $win) {
 </div>
         
         <br>
-        <a href="mainpage.html">Home Page</a>
+        <a href="mainpage.html">Sign Out</a>
         <br>
         <a class="diffButton" href="level_selection.php">Change Difficulty?</a>
         <br>

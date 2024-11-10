@@ -14,7 +14,7 @@
     </div>
 
     <p class="levelselect">
-      <img src="selectlevel.png">
+      <img src="selectlevel1.png">
     </p>
 
     <div class="button-container">
